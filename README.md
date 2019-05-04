@@ -19,7 +19,8 @@ Creating repository for LIRI- a Language Interpretation and Recognition Interfac
 - GitHub
 
 ## Code Explanation / Demo
-- There are 4 main commands that a user can type that will call different fuctions.
+- There are 4 main commands and an input (artist, movie or song) that a user can type that will call different fuctions.
+
   1) < concert-this > < artist/band name > will return the following.
     Link to demo: https://drive.google.com/file/d/1cKDoJq9npr8EZU_By-k2yK8CnhsF1vEA/view
 
@@ -55,15 +56,17 @@ Creating repository for LIRI- a Language Interpretation and Recognition Interfac
     - Plot:
     - Actors: 
     - ----------------------------------
+
   4) < do-what-it-says > utilizes FS to read the "random.txt" file to pull "I want it that way" and will return the following.
       Link to demo:
       https://drive.google.com/file/d/1x-PgwSoofkF7UZ8Mrg7gmi9w8VxD8Aqj/view
-      
+
     - ------------Song Info------------
     - Artist:
     - Album: 
     - Song:
     - Song URL: 
     - ---------------------------------
+    
   5) After each command is run it will also append the information logged in the console to "log.txt".
 
