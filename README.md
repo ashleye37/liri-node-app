@@ -21,20 +21,30 @@ Creating repository for LIRI- a Language Interpretation and Recognition Interfac
 ## Code Explanation / Demo
 - There are 4 main commands that a user can type that will call different fuctions.
   1) < concert-this > < artist/band name > will return the following.
+    Link to demo: https://drive.google.com/file/d/1cKDoJq9npr8EZU_By-k2yK8CnhsF1vEA/view
+
     - ------------Concert Info------------
     - Artist: 
     - Venue: 
     - Location:
     - Date: 
     - ------------------------------------
-  2) < spotify-this-song > < song name > will return the following and if no song is provided "Ace of Base - The Sign" is added as the input. value.
+
+  2) < spotify-this-song > < song name > will return the following and if no song is provided "Ace of Base - The Sign" is added as the input value.
+      Link to demo:
+      https://drive.google.com/file/d/1vyVDrVJ44JXkGvnfH2XidjouFvINQdX7/view
+
     - ------------Song Info------------
     - Artist:
     - Album: 
     - Song:
     - Song URL: 
     - ---------------------------------
+
   3) < movie-this > < movie name > will return the following and if no movie is provided "Mr. Nobody" is added as the input value.
+      Link to demo:
+      https://drive.google.com/file/d/1TEf4p-WZpwPfM-TacQg71cWq05Svr2xo/view
+
     - ------------Movie Info------------
     - Title:
     - Year: 
@@ -46,6 +56,9 @@ Creating repository for LIRI- a Language Interpretation and Recognition Interfac
     - Actors: 
     - ----------------------------------
   4) < do-what-it-says > utilizes FS to read the "random.txt" file to pull "I want it that way" and will return the following.
+      Link to demo:
+      https://drive.google.com/file/d/1x-PgwSoofkF7UZ8Mrg7gmi9w8VxD8Aqj/view
+      
     - ------------Song Info------------
     - Artist:
     - Album: 
